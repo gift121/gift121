@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @gift121
 
 ### Hi there 👋, my name is gift121
-#### I am a Web-Developer and Software Developer
+#### I am a Web-Developer
 
 
- I'm Gift, a budding and developing Web-Developer and Software-Engineer, I enjoy learning a new language even though I'm still new to HTML, CSS, and JavaScript, I also enjoy calculating and working with Money, that's an Accountant diving into the Tech Space, But it will be great to use the skills learned from tech to build Financial apps and also proffer solutions to Financial problems round the World
+ I'm Gift, a budding and developing Web-Developer, I enjoy learning a new language even though I'm still new to HTML, CSS, and JavaScript, I also enjoy calculating and working with Money, that's an Accountant diving into the Tech Space, But it will be great to use the skills learned from tech to build Financial apps and also proffer solutions to Financial problems round the World
 
 Skills: Python/JS / HTML / CSS  
 
